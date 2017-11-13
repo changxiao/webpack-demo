@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* svn相对地址 */
+/* 项目下建立文本或者其他说明 本产品的产品及其对接的相关人员 */
+@function rem($px){
+	@return $px*(1/20)*1rem;
+}
+@import "scss/base";
+@import "img";
+@import "font";
+@import "scss/gx";
+@import "scss/ycs";
+@import "scss/dnx";
+@import "scss/sf";
+@import "scss/yph";
+@import "scss/ztt";
+@import "scss/ty";
+@import "scss/dll";
+@import "scss/wt";
+
