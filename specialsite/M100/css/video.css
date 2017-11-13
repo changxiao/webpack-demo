@@ -1,0 +1,118 @@
+
+@charset "utf-8";
+
+.adminyeazone_video_arc_t1 {
+	WIDTH: 428px
+}
+.adminyeazone_video_arc_t1 P {
+	PADDING-BOTTOM: 16px; FONT: 13px/16px Arial, Helvetica, SimSun, san-serif
+}
+.adminyeazone_video_div {
+	WIDTH: 700px; MARGIN-LEFT: -15px; PADDING-TOP: 10px
+}
+.adminyeazone_video_div .adminyeazone_video_s1 {
+	PADDING-BOTTOM: 28px; PADDING-LEFT: 15px; WIDTH: 335px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 5px
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_t1 {
+	PADDING-BOTTOM: 8px; FONT-WEIGHT: bold
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_t2 {
+	PADDING-BOTTOM: 3px; FONT-WEIGHT: bold
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_preview_img IMG {
+	DISPLAY: block; MARGIN-BOTTOM: 8px
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_n1 {
+	PADDING-BOTTOM: 8px; FONT: 13px/16px Arial, Helvetica, SimSun, san-serif
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_n1 .adminyeazone_a01 {
+	DISPLAY: block; FLOAT: left
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_n1 .adminyeazone_v01 {
+	MARGIN: auto 16px; DISPLAY: block; FLOAT: left
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_link A:link {
+	TEXT-INDENT: -9999px; WIDTH: 42px; DISPLAY: block; BACKGROUND: url(../images/play_button.jpg) no-repeat 0px 0px; FLOAT: left; HEIGHT: 24px; OVERFLOW: hidden; CURSOR: pointer; MARGIN-RIGHT: 45px
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_link A:visited {
+	TEXT-INDENT: -9999px; WIDTH: 42px; DISPLAY: block; BACKGROUND: url(../images/play_button.jpg) no-repeat 0px 0px; FLOAT: left; HEIGHT: 24px; OVERFLOW: hidden; CURSOR: pointer; MARGIN-RIGHT: 45px
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_link A:hover {
+	BACKGROUND-POSITION: 0px -24px
+}
+.adminyeazone_video_div_margine_left_0 {
+	PADDING-BOTTOM: 23px; MARGIN-LEFT: -6px
+}
+.adminyeazone_video_div_margine_left_0 .adminyeazone_video_s1 {
+	PADDING-TOP: 0px
+}
+.adminyeazone_video_div_margine_left_0 .adminyeazone_video_s1 .adminyeazone_video_link A:link {
+	MARGIN-RIGHT: 31px
+}
+.adminyeazone_video_div .adminyeazone_video_s1 .adminyeazone_video_link A:visited {
+	MARGIN-RIGHT: 31px
+}
+.adminyeazone_video_div_margine_left_0 .adminyeazone_video_s1 .adminyeazone_video_n1 .adminyeazone_v01 {
+	MARGIN: auto 21px
+}
+.adminyeazone_video_div_margine_left_0 .adminyeazone_picture_s1 {
+	PADDING-BOTTOM: 31px; PADDING-LEFT: 6px; WIDTH: 163px
+}
+.adminyeazone_video_text1 {
+	WIDTH: 335px; PADDING-TOP: 5px
+}
+.adminyeazone_video_text1 P {
+	FONT: 13px/16px Arial, Helvetica, SimSun, san-serif
+}
+.adminyeazone_mask_layer {
+	Z-INDEX: 10001; POSITION: absolute; WIDTH: 100%; DISPLAY: none; BACKGROUND: #000; HEIGHT: 2000px; TOP: 0px; LEFT: 0px
+}
+.adminyeazone_show_video {
+	Z-INDEX: 10002; POSITION: absolute; WIDTH: 560px; DISPLAY: none; BACKGROUND: #fff; HEIGHT: 350px; OVERFLOW: hidden; TOP: 170px; LEFT: 0px
+}
+.adminyeazone_show_video .adminyeazone_c1 {
+	POSITION: relative; PADDING-LEFT: 40px; OVERFLOW: hidden
+}
+.adminyeazone_show_video .adminyeazone_close {
+	POSITION: relative; DISPLAY: block; HEIGHT: 40px; OVERFLOW: hidden
+}
+.adminyeazone_show_video .adminyeazone_video_body {
+	TEXT-ALIGN: center; WIDTH: 480px; DISPLAY: block; HEIGHT: 270px
+}
+.adminyeazone_show_video .adminyeazone_video_body .adminyeazone_video_swf {
+	TEXT-ALIGN: center; WIDTH: 480px;
+}
+.adminyeazone_show_video .adminyeazone_video_bom {
+	PADDING-RIGHT: 40px; HEIGHT: 40px
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_left {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 16px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; COLOR: #666; FONT-SIZE: 13px; PADDING-TOP: 0px ; font-family:Arial,Helvetica,SimSun,san-serif; margin-top:8px;
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_right {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; COLOR: #999; PADDING-TOP: 8px
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_right .adminyeazone_on {
+	FONT-WEIGHT: bold
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_right .adminyeazone_v01 {
+	MARGIN: auto 8px
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_right A:link {
+	COLOR: #666
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_right A:visited {
+	COLOR: #666
+}
+.adminyeazone_show_video .adminyeazone_video_bom .adminyeazone_right A:hover {
+	COLOR: #bf2318
+}
+#adminyeazone_closeDrag:link {
+	POSITION: absolute; TEXT-INDENT: -9999px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 12px; DISPLAY: block; BACKGROUND: url(../images/close.gif) no-repeat 0px 0px; HEIGHT: 12px; TOP: 10px; CURSOR: pointer; RIGHT: 10px
+}
+#adminyeazone_closeDrag:visited {
+	POSITION: absolute; TEXT-INDENT: -9999px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 12px; DISPLAY: block; BACKGROUND: url(../images/close.gif) no-repeat 0px 0px; HEIGHT: 12px; TOP: 10px; CURSOR: pointer; RIGHT: 10px
+}
+#adminyeazone_closeDrag:hover {
+	BACKGROUND: url(../images/close_mouseover.jpg) no-repeat 0px 0px
+}
+
